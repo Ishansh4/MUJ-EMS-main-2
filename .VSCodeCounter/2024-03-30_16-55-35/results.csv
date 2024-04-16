@@ -1,0 +1,39 @@
+"filename", "language", "CSS", "JavaScript", "JSON", "Markdown", "JavaScript JSX", "HTML", "comment", "blank", "total"
+"/Users/devanshukejriwal/Downloads/SDC-main/README.md", "Markdown", 0, 0, 0, 40, 0, 0, 0, 33, 73
+"/Users/devanshukejriwal/Downloads/SDC-main/api/index.js", "JavaScript", 0, 15, 0, 0, 0, 0, 1, 6, 22
+"/Users/devanshukejriwal/Downloads/SDC-main/api/package-lock.json", "JSON", 0, 0, 985, 0, 0, 0, 0, 1, 986
+"/Users/devanshukejriwal/Downloads/SDC-main/api/package.json", "JSON", 0, 0, 18, 0, 0, 0, 0, 1, 19
+"/Users/devanshukejriwal/Downloads/SDC-main/app.js", "JavaScript", 0, 132, 0, 0, 0, 0, 0, 53, 185
+"/Users/devanshukejriwal/Downloads/SDC-main/assignmentModel.js", "JavaScript", 0, 27, 0, 0, 0, 0, 3, 4, 34
+"/Users/devanshukejriwal/Downloads/SDC-main/mongo.js", "JavaScript", 0, 22, 0, 0, 0, 0, 0, 7, 29
+"/Users/devanshukejriwal/Downloads/SDC-main/mongo2.js", "JavaScript", 0, 24, 0, 0, 0, 0, 0, 4, 28
+"/Users/devanshukejriwal/Downloads/SDC-main/package-lock.json", "JSON", 0, 0, 18827, 0, 0, 0, 0, 1, 18828
+"/Users/devanshukejriwal/Downloads/SDC-main/package.json", "JSON", 0, 0, 49, 0, 0, 0, 0, 1, 50
+"/Users/devanshukejriwal/Downloads/SDC-main/public/index.html", "HTML", 0, 0, 0, 0, 0, 20, 23, 1, 44
+"/Users/devanshukejriwal/Downloads/SDC-main/public/manifest.json", "JSON", 0, 0, 25, 0, 0, 0, 0, 1, 26
+"/Users/devanshukejriwal/Downloads/SDC-main/src/App.css", "CSS", 33, 0, 0, 0, 0, 0, 0, 6, 39
+"/Users/devanshukejriwal/Downloads/SDC-main/src/App.js", "JavaScript", 0, 25, 0, 0, 0, 0, 0, 8, 33
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Admin.css", "CSS", 210, 0, 0, 0, 0, 0, 17, 50, 277
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Admin.jsx", "JavaScript JSX", 0, 0, 0, 0, 188, 0, 10, 18, 216
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Assign.css", "CSS", 13, 0, 0, 0, 0, 0, 0, 2, 15
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Assign.jsx", "JavaScript JSX", 0, 0, 0, 0, 45, 0, 3, 7, 55
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/First.jsx", "JavaScript JSX", 0, 0, 0, 0, 13, 0, 0, 8, 21
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Home.css", "CSS", 36, 0, 0, 0, 0, 0, 4, 7, 47
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Home.jsx", "JavaScript JSX", 0, 0, 0, 0, 49, 0, 0, 7, 56
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Login.css", "CSS", 67, 0, 0, 0, 0, 0, 0, 13, 80
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Login.jsx", "JavaScript JSX", 0, 0, 0, 0, 42, 0, 0, 7, 49
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Main.css", "CSS", 7, 0, 0, 0, 0, 0, 0, 5, 12
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Main.jsx", "JavaScript JSX", 0, 0, 0, 0, 11, 0, 1, 9, 21
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Navbar.css", "CSS", 64, 0, 0, 0, 0, 0, 2, 11, 77
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Navbar.jsx", "JavaScript JSX", 0, 0, 0, 0, 26, 0, 0, 5, 31
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/SidePanel.css", "CSS", 65, 0, 0, 0, 0, 0, 0, 13, 78
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/SidePanel.jsx", "JavaScript JSX", 0, 0, 0, 0, 21, 0, 0, 8, 29
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Signup.jsx", "JavaScript JSX", 0, 0, 0, 0, 47, 0, 0, 20, 67
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Trial.css", "CSS", 132, 0, 0, 0, 0, 0, 0, 34, 166
+"/Users/devanshukejriwal/Downloads/SDC-main/src/components/Trial.jsx", "JavaScript JSX", 0, 0, 0, 0, 231, 0, 0, 21, 252
+"/Users/devanshukejriwal/Downloads/SDC-main/src/index.css", "CSS", 3, 0, 0, 0, 0, 0, 0, 0, 3
+"/Users/devanshukejriwal/Downloads/SDC-main/src/index.js", "JavaScript", 0, 10, 0, 0, 0, 0, 0, 5, 15
+"/Users/devanshukejriwal/Downloads/SDC-main/tailwind.config.js", "JavaScript", 0, 9, 0, 0, 0, 0, 1, 2, 12
+"/Users/devanshukejriwal/Downloads/SDC-main/userModel.js", "JavaScript", 0, 30, 0, 0, 0, 0, 0, 5, 35
+"/Users/devanshukejriwal/Downloads/SDC-main/userModel2.js", "JavaScript", 0, 30, 0, 0, 0, 0, 0, 5, 35
+"Total", "-", 630, 324, 19904, 40, 673, 20, 65, 389, 22045

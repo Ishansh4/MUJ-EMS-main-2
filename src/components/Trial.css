@@ -1,0 +1,167 @@
+.container {
+  margin: auto;
+  width: 90%;
+  padding: 50px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border: 2px solid #ffa500;
+}
+
+.container h2 {
+  font-weight: bold; /* Make title bold */
+  font-size: 24px; /* Make title bold */
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+.input-container label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.input-container input[type="text"],
+.input-container select {
+  width: 100%;
+  height: 40px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.select-container {
+  margin-bottom: 20px;
+}
+
+.select-container select {
+  width: 100%;
+  height: 40px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.radio-container {
+  margin-bottom: 20px;
+}
+
+.radio-container button {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  transition: all 0.3s ease;
+  width: 680px;
+    height: 47px;
+    margin: 0;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.radio-container button.selected {
+  background-color: #4caf50;
+  color: white;
+}
+
+.radio-container .description {
+  margin: 0;
+  width: 677px;
+  margin-left: 164px;
+  height: 290px;
+
+
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+}
+
+.radio-container button.selected + .description {
+  max-height: 1000px; /* Adjust this value to fit your content */
+  opacity: 1;
+}
+.radio-container h2{
+margin-left: 15px;
+    text-align: left;
+    margin-top: 20px;
+
+}
+.radio-container p{
+padding: 15px;
+text-align: justify;
+font-size: 14px;
+}
+
+
+.radio-container .bope{
+  font-size: 16px;
+
+  cursor: pointer;
+  width: 100px;
+    margin: 0;
+    height: 37px;
+    text-align: center;
+    color: black;
+
+}
+.radio-container h5{
+  padding: 0px;
+  margin: 0px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  text-align: justify;
+  font-size: 14px;
+  }
+
+  .button-container button {
+    background-color: #ffaa7c; 
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .button-container button:hover {
+    background-color: #ff774d; 
+  }
+  
+  .elebun {
+    background-color: #ffaa7c;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .elebun:hover {
+    background-color: #ff774d; 
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+  

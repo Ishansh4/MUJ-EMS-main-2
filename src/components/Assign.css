@@ -1,0 +1,15 @@
+
+.upload-container button.upload-button {
+    background-color: #4dc3ff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.upload-container button.upload-button:hover {
+    background-color: #1aa3ff;
+}

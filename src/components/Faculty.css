@@ -1,0 +1,85 @@
+/* Admin.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Set height to fill the viewport */
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar .menu li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navbar .menu li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.side-panel {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.side-panel input[type="number"],
+.side-panel input[type="text"],
+.side-panel button {
+    margin-bottom: 10px;
+}
+
+.main-content {
+    padding: 20px;
+    height: calc(100vh - 100px); /* Calculate height to fill remaining space */
+    overflow: auto; /* Enable scrolling if content exceeds height */
+}
+
+.stu {
+    margin-bottom: 30px;
+}
+
+.stu h2 {
+    margin-bottom: 10px;
+}
+
+.inside {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.inside table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.inside th,
+.inside td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.inside th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.inside tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

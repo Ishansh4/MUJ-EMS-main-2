@@ -1,0 +1,72 @@
+Date : 2024-03-30 16:55:35
+Directory : /Users/devanshukejriwal/Downloads/SDC-main
+Total : 37 files,  21591 codes, 65 comments, 389 blanks, all 22045 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          5 |     19,904 |          0 |          5 |     19,909 |
+| JavaScript JSX |         10 |        673 |         14 |        110 |        797 |
+| CSS            |         10 |        630 |         23 |        141 |        794 |
+| JavaScript     |         10 |        324 |          5 |         99 |        428 |
+| Markdown       |          1 |         40 |          0 |         33 |         73 |
+| HTML           |          1 |         20 |         23 |          1 |         44 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                       |         37 |     21,591 |         65 |        389 |     22,045 |
+| . (Files)                                                               |         10 |     19,190 |          4 |        115 |     19,309 |
+| api                                                                     |          3 |      1,018 |          1 |          8 |      1,027 |
+| public                                                                  |          2 |         45 |         23 |          2 |         70 |
+| src                                                                     |         22 |      1,338 |         37 |        264 |      1,639 |
+| src (Files)                                                             |          4 |         71 |          0 |         19 |         90 |
+| src/components                                                          |         18 |      1,267 |         37 |        245 |      1,549 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                | language       | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/devanshukejriwal/Downloads/SDC-main/README.md                    | Markdown       |         40 |          0 |         33 |         73 |
+| /Users/devanshukejriwal/Downloads/SDC-main/api/index.js                 | JavaScript     |         15 |          1 |          6 |         22 |
+| /Users/devanshukejriwal/Downloads/SDC-main/api/package-lock.json        | JSON           |        985 |          0 |          1 |        986 |
+| /Users/devanshukejriwal/Downloads/SDC-main/api/package.json             | JSON           |         18 |          0 |          1 |         19 |
+| /Users/devanshukejriwal/Downloads/SDC-main/app.js                       | JavaScript     |        132 |          0 |         53 |        185 |
+| /Users/devanshukejriwal/Downloads/SDC-main/assignmentModel.js           | JavaScript     |         27 |          3 |          4 |         34 |
+| /Users/devanshukejriwal/Downloads/SDC-main/mongo.js                     | JavaScript     |         22 |          0 |          7 |         29 |
+| /Users/devanshukejriwal/Downloads/SDC-main/mongo2.js                    | JavaScript     |         24 |          0 |          4 |         28 |
+| /Users/devanshukejriwal/Downloads/SDC-main/package-lock.json            | JSON           |     18,827 |          0 |          1 |     18,828 |
+| /Users/devanshukejriwal/Downloads/SDC-main/package.json                 | JSON           |         49 |          0 |          1 |         50 |
+| /Users/devanshukejriwal/Downloads/SDC-main/public/index.html            | HTML           |         20 |         23 |          1 |         44 |
+| /Users/devanshukejriwal/Downloads/SDC-main/public/manifest.json         | JSON           |         25 |          0 |          1 |         26 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/App.css                  | CSS            |         33 |          0 |          6 |         39 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/App.js                   | JavaScript     |         25 |          0 |          8 |         33 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Admin.css     | CSS            |        210 |         17 |         50 |        277 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Admin.jsx     | JavaScript JSX |        188 |         10 |         18 |        216 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Assign.css    | CSS            |         13 |          0 |          2 |         15 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Assign.jsx    | JavaScript JSX |         45 |          3 |          7 |         55 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/First.jsx     | JavaScript JSX |         13 |          0 |          8 |         21 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Home.css      | CSS            |         36 |          4 |          7 |         47 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Home.jsx      | JavaScript JSX |         49 |          0 |          7 |         56 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Login.css     | CSS            |         67 |          0 |         13 |         80 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Login.jsx     | JavaScript JSX |         42 |          0 |          7 |         49 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Main.css      | CSS            |          7 |          0 |          5 |         12 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Main.jsx      | JavaScript JSX |         11 |          1 |          9 |         21 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Navbar.css    | CSS            |         64 |          2 |         11 |         77 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Navbar.jsx    | JavaScript JSX |         26 |          0 |          5 |         31 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/SidePanel.css | CSS            |         65 |          0 |         13 |         78 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/SidePanel.jsx | JavaScript JSX |         21 |          0 |          8 |         29 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Signup.jsx    | JavaScript JSX |         47 |          0 |         20 |         67 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Trial.css     | CSS            |        132 |          0 |         34 |        166 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/components/Trial.jsx     | JavaScript JSX |        231 |          0 |         21 |        252 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/index.css                | CSS            |          3 |          0 |          0 |          3 |
+| /Users/devanshukejriwal/Downloads/SDC-main/src/index.js                 | JavaScript     |         10 |          0 |          5 |         15 |
+| /Users/devanshukejriwal/Downloads/SDC-main/tailwind.config.js           | JavaScript     |          9 |          1 |          2 |         12 |
+| /Users/devanshukejriwal/Downloads/SDC-main/userModel.js                 | JavaScript     |         30 |          0 |          5 |         35 |
+| /Users/devanshukejriwal/Downloads/SDC-main/userModel2.js                | JavaScript     |         30 |          0 |          5 |         35 |
+| Total                                                                   |                |     21,591 |         65 |        389 |     22,045 |
++-------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
